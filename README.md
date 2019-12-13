@@ -1,5 +1,4 @@
 # seisan_3
-<!DOCTYPE html>
 <html lang="ja">
 <head>
 
